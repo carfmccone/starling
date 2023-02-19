@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add YOLOv8 LibTorch C++ inference example (#7090)
