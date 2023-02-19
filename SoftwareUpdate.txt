@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Fix RTDETR generate anchor grid out of boundary (#7247)
