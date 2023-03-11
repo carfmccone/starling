@@ -1,1 +1,1 @@
-fix non-coco val
+Faster batch same_shapes (#8851)
