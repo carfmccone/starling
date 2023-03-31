@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Update Discord and Contributing Guide URLs (#9270)
