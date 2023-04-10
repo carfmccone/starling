@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
