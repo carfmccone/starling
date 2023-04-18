@@ -1,1 +1,1 @@
-fix resume training
+More robust PNNX downloads (#8866)
