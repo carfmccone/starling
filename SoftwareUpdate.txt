@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
