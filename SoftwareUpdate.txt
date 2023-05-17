@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
