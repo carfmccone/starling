@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Merge pull request #22 from SkalskiP/patch-1
