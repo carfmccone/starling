@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
