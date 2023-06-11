@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Update CI.md with CI links (#8786)
