@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
