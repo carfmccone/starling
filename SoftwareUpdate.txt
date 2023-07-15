@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Clean up unused imgsz (#7771)
