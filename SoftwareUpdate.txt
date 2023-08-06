@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Fixed RTDETR GFLOPs bug (#7309)
