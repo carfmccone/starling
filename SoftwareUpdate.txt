@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Python refactorings and simplifications (#7549)
