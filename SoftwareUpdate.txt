@@ -1,1 +1,1 @@
-update requirements.txt
+Tracker: clean up GMC (#8003)
