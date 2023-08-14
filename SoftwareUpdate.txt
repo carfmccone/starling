@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Auto-format by https://ultralytics.com/actions
