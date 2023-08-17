@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Add docstrings to new HUB functions (#7576)
