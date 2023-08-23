@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
