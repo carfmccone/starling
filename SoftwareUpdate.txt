@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
