@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
