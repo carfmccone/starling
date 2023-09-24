@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
