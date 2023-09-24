@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Fix Multi-GPU resume bug (#7328)
