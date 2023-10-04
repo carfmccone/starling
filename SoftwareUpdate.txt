@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Compare plt.get_backend() in lowercase (#8409)
