@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Segment TensorRT batch=3 fix (#7952)
