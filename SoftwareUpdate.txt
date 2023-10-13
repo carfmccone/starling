@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
