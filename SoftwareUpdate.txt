@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Auto-format by https://ultralytics.com/actions
