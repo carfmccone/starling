@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add horizontal Mosaic3 augmentation (#6898)
