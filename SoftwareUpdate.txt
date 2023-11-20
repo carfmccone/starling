@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
