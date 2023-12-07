@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Auto-format by https://ultralytics.com/actions
