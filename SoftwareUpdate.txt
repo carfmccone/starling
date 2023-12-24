@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
