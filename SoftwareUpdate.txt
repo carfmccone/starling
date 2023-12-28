@@ -1,1 +1,1 @@
-fix predict with class filter
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
