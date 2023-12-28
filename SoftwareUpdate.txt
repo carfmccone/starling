@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
