@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Reverse IoU threshold for NMS docs descriptions (#9151)
