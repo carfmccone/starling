@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
