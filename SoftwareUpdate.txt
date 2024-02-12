@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+ultralytics 8.0.237 cv2.CAP_PROP fix and in_counts and out_counts displays (#7380)
