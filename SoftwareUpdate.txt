@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
