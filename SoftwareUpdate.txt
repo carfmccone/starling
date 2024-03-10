@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
