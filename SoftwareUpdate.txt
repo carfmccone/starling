@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Move Explorer tests to scheduled CI (#8305)
