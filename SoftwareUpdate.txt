@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Mkdocs annotations fixes (#7600)
