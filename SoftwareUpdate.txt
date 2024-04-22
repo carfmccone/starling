@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Update OpenVINO INT8 export (#7515)
