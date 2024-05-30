@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Fix device counting method to account for double-digit device IDs (#8502)
