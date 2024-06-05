@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
