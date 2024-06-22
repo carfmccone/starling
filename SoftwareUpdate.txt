@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Add horizontal Mosaic3 augmentation (#6898)
