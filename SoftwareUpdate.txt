@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
