@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Docs updates and improvements (#8183)
