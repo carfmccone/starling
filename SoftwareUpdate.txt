@@ -1,1 +1,1 @@
-example Google Colab
+add logs
