@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
