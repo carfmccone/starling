@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Fix OpenVINO links (#7930)
