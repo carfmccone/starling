@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
