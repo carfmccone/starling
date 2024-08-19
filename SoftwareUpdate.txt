@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
