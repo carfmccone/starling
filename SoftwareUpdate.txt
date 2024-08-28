@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
