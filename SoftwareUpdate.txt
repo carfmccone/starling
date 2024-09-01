@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
