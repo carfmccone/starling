@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
