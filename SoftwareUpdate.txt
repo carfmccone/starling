@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Clean up unused imgsz (#7771)
