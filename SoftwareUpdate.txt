@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
