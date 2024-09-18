@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
