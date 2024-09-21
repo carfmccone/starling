@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+fix predict with class filter
