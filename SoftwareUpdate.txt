@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Resize angle, count, and stage on keypoint number change (#7598)
