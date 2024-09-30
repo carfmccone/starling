@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+docs: update view-results-in-terminal.md (#66)
